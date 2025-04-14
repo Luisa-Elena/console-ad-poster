@@ -1,4 +1,4 @@
-# Real Estate Ads
+# Post ads - console app
 
 ## **Overview**  
 Multithreaded Java server, which supports multiple clients to view all ads, search for a particular ad form the list or add a new one.
